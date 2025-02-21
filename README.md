@@ -57,16 +57,16 @@
 ### Исходное состояние виртуальных инстансов в облаке.
 
 #### Список проектов в облаке:
-![Screenshot](../../../docs/images/projects.png)
+![Screenshot](./docs/images/projects.png)
 
 #### Виртуальные инстансы и их теги в 1 проекте:
-![Screenshot](../../../docs/images/project_1.png)
+![Screenshot](./docs/images/project_1.png)
 
 #### Виртуальные инстансы и их теги во втором проекте:
-![Screenshot](../../../docs/images/project_2.png)
+![Screenshot](./docs/images/project_2.png)
 
 #### Виртуальные инстансы и их теги в третьем проекте:
-![Screenshot](../../../docs/images/project_3.png)
+![Screenshot](./docs/images/project_3.png)
 
 ### Конфигурация .clouds.yaml (общая для всех примеров)
 
